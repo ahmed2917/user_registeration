@@ -1,0 +1,2 @@
+FLASK_APP=USER_REG
+FLASK_ENV=development
